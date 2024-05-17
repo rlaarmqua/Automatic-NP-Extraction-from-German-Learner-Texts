@@ -1,0 +1,4 @@
+spacy~=3.6.1
+pandas~=2.0.3
+spacy-conll~=3.4.0
+de_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.6.0/de_core_news_sm-3.6.0-py3-none-any.whl
